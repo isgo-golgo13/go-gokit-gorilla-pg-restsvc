@@ -1,1 +1,1 @@
-# isgo-golgo13-go-gorilla-gokit-pg-restsvc
+# go-gorilla-gokit-pg-restsvc
