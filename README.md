@@ -1,1 +1,1 @@
-# go-gorilla-gokit-pg-restsvc
+# go-gokit-gorilla-pg-restsvc
